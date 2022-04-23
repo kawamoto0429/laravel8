@@ -1,0 +1,38 @@
+/back/vendor/
+/back/node_modules/
+/back/npm-debug.log
+/back/yarn-error.log
+
+# Laravel 4 specific
+/back/bootstrap/compiled.php
+/back/app/storage/
+
+# Laravel 5 & Lumen specific
+/back/public/storage
+/back/public/hot
+
+# Laravel 5 & Lumen specific with changed public path
+/back/public_html/storage
+/back/public_html/hot
+
+/back/storage/*.key
+/back/.env
+/back/Homestead.yaml
+/back/Homestead.json
+/back/.vagrant
+/back/.phpunit.result.cache
+
+/front/.idea/
+/front/.vscode/
+/front/node_modules/
+/front/build/
+/front/.DS_Store
+/front/*.tgz
+/front/my-app*
+/front/template/src/__tests__/__snapshots__/
+/front/lerna-debug.log
+/front/npm-debug.log*
+/front/yarn-debug.log*
+/front/yarn-error.log*
+/front/.changelog
+/front/.npm/
